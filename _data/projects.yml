@@ -1,0 +1,8 @@
+# Projects
+
+# jazznotes.io
+- project: Soolsool
+  role: Backend Developer
+  duration: Aug 2023
+  url: "https://github.com/woowatechcamp/soolsool"
+  description: <ul><li>Improved query performance significantly through MySQL query tuning <b>80 times</b> on related products and <b>350 times</b> on order rate of product</li><li>Enhanced responsiveness and TPS <b>175%</b> using Redis for delayed writes.</li><li>Managed project schedule, documented team conventions, and established CI/CD environment.</li><li>Designed system architecture within company resource and security constraints.</li><li>Presented mid-term and final project demos.</li></ul>
